@@ -1,8 +1,14 @@
-# Power-BI-Nike-dashboard
-Power BI dashboard analyzing Nike sales across products, regions, retailers, and trends.
+# Nike Sales Performance Dashboard (Power BI)
+---
+
+<p align="center">
+  <img src="Snapshot_dashboard.png" alt="Dashboard Preview" width="600">
+</p>
+
+---
 
 
- # **Nike Sales Performance Dashboard (Power BI)**
+
 
 This interactive **Power BI dashboard** analyzes Nike's sales performance across different **retailers, regions, months, and product categories**. 
 It provides data-driven insights into **total sales, profit, and unit trends**, 
