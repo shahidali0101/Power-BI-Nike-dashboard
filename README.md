@@ -76,9 +76,8 @@ optimizing marketing, and driving regional strategy.
 ## 📁 Files Included
 
 - `Nike_Sales_Dashboard.pbix`  
-- `Data source-` –   https://github.com/shahidali0101/Nike-Sales-Performance-Dashboard/blob/main/Nike%20Data.xlsx
-
--`[Dashboard preview image]-` -( https://github.com/shahidali0101/Nike-Sales-Performance-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png )
+- `Data source-` –   https://github.com/shahidali0101/Power-BI-Nike-dashboard/blob/main/Nike%20Data.xlsx
+- `Screenshot of Dashboard`
 
 ## 📌 About the Creator
 
